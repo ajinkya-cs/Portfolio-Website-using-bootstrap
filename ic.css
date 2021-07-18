@@ -11,7 +11,10 @@
     width: 32%;
     float: left;
   }
-  html {zoom: 80%;}
+ html {
+    zoom: 0.8;
+    
+}
 
   
   .box1 {
